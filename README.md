@@ -3,7 +3,7 @@
 ### Phonepe Pulse Data Visualization (Financial Domain)
 
 
-(https://github.com/Dineshkumar56/phonepe-pulse/assets/113771655/4a9d229f-3180-4fca-ba91-ac56d14e7854)
+![image](https://github.com/Dineshkumar56/phonepe-pulse/assets/113771655/4a9d229f-3180-4fca-ba91-ac56d14e7854)
 
 
 
@@ -22,7 +22,7 @@
        
        Interactive Dashboard: Presents data using Streamlit and Plotly, offering dynamic visualizations.
        
-       Data Retrieval: Connects to the MySQL database to display data on the dashboard.
+       Data Retrieval: Connects to the PostgreSQL database to display data on the dashboard.
        
        Customization: Offers more interactive options for users to select different data visualizations.
 
@@ -31,7 +31,7 @@
     
     Clone the GitHub repository.
     
-    Use Python, Pandas, and mysql-connector-python for data processing.
+    Use Python, Pandas, and sql-connector-python for data processing.
     
     Set up the MySQL database for data storage.
     
@@ -72,7 +72,7 @@
     Data Management using PostgreSQL
     User Interface: Streamlit
     Data Visualization: Plotly-express
-    IDE: PyCharm Community Version
+    IDE: VSC
 
 ## Results
 
