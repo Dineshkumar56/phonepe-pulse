@@ -3,9 +3,6 @@
 ### Phonepe Pulse Data Visualization (Financial Domain)
 
 
-![image](https://github.com/praveendecode/phonepe_pulse/assets/95226524/88f01431-3a50-4775-9331-fc9e3721ff65)
-
-
 ## Overview
 
     This project aims to create an interactive data visualization tool for the Phonepe Pulse data available on GitHub. The tool provides user-friendly access to various metrics and statistics.
